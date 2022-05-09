@@ -157,3 +157,5 @@ git pull은 결국 merge + fetch
 - ```git log``` git 로그 확인
 
 - ```git diff``` 다른 커밋과 working directory를 비교하는 명령어 ( - 는 삭제, + 는 더해진 부분 )
+
+- '''git remote rm origin''' git remote origin 삭제
