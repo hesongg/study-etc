@@ -1,5 +1,4 @@
 # git 정리
-## 참고 : https://learngitbranching.js.org/?locale=ko 및 블로그
 
 ### git 명령어 
 - 커밋 ```git commit```
@@ -159,3 +158,6 @@ git pull은 결국 merge + fetch
 - ```git diff``` 다른 커밋과 working directory를 비교하는 명령어 ( - 는 삭제, + 는 더해진 부분 )
 
 - ```git remote rm origin``` git remote origin 삭제
+	
+
+References) https://learngitbranching.js.org/?locale=ko 및 블로그
