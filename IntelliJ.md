@@ -15,3 +15,5 @@
 - 선택 라인의 변수 자동 생성 : ctrl + alt + v
 
 - Generate : alt + insert
+
+- 최근에 본 파일 목록 : ctrl + e
