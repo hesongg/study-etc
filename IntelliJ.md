@@ -4,6 +4,8 @@
 
 - 자동 조치사항 선택 기능 : ctrl + enter
 
+- 조치 사항 선택 보기 : alt + enter
+
 - 자동 완성 : ctrl + shift + enter
 
 - 방금 실행한 내용 재실행 : shift + f10
