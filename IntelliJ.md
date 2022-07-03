@@ -19,3 +19,7 @@
 - Generate : alt + insert
 
 - 최근에 본 파일 목록 : ctrl + e
+
+- 오류난 라인에서 오류 단어로 이동 : F2
+
+- 선택한 메서드의 테스트 클래스 생성 : ctrl + shift + t
